@@ -8,9 +8,6 @@ public:
 };
 class bird:public animal{
 public:
-   void  fly(){
-    cout<<"Flying "<<endl;
-    }
 
     void watch(){
      cout<<"Watching"<<endl;  
