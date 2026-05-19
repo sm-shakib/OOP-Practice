@@ -19,11 +19,15 @@ public:
     cout<<"Chirping"<<endl;
     }
 
+    void sleep(){
+    cout<<"Sleeping"<<endl;
+    }
+
 };
 int main(){
 
  sparrow ob;
 
  ob.chirp();
-
+ ob.sleep();
 }
