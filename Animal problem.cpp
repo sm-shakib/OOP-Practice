@@ -12,6 +12,10 @@ public:
     cout<<"Flying "<<endl;
     }
 
+    void watch(){
+     cout<<"Watching"<<endl;  
+    }
+
 };
 class sparrow:public bird{
 public:
