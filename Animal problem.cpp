@@ -21,7 +21,7 @@ public:
     }
 
     void sleep(){
-    cout<<"Sleep"<<endl;
+    cout<<"Sleepin\n";
     }
 
 };
